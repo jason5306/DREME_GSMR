@@ -19,7 +19,7 @@ The source code for this project will be made publicly available **after the ass
 
 ## Data Availability
 
-Phantom data will be made available at the following link:
+Phantom data will be made available at the following link: [google drive](https://drive.google.com/drive/folders/1rWUOtudZE-u69_kItuvq1B2LGgD0F2p7?usp=sharing)
 
-**Phantom data:** [link]([https://example.com/phantom-data](https://drive.google.com/drive/folders/1rWUOtudZE-u69_kItuvq1B2LGgD0F2p7?usp=sharing))
+
 
